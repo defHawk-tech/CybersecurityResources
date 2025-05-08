@@ -4,12 +4,12 @@
 - [Advanced Infrastructure Penetration Testing by Chiheb Chebbi](https://www.packtpub.com/product/advanced-infrastructure-penetration-testing/9781788628877)
 
 ## Blogs
--[Docker Basics] (https://github.com/veggiemonk/awesome-docker)
+- [Docker Basics](https://github.com/veggiemonk/awesome-docker)
 - [Docker Security](https://docs.docker.com/engine/security/)
 - [OWASP Docker Security](https://github.com/OWASP/Docker-Security)
 - [Introduction to Container Security](https://gist.github.com/michaellihs/fcd4453e309b986c9076851657175f1f)
 - [Introduction to Container Security]( https://www.docker.com/blog/container-security-and-why-it-matters/)
-- [docker engine security] (https://docs.docker.com/engine/security/)
+- [docker engine security](https://docs.docker.com/engine/security/)
 - [Anatomy of a Hack: Docker Registry](https://notsosecure.com/anatomy-of-a-hack-docker-registry)
 - [Hunting for Insecure Docker Registries](https://medium.com/@act1on3/hunting-for-insecure-docker-registries-d87d293e6779)
 - [How Abusing Docker API Leads to Remote Code Execution](https://www.blackhat.com/docs/us-17/thursday/us-17-Cherny-Well-That-Escalated-Quickly-How-Abusing-The-Docker-API-Led-To-Remote-Code-Execution-Same-Origin-Bypass-And-Persistence_wp.pdf)
