@@ -61,7 +61,7 @@ For detailed guidelines, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) 
 ## 📧 Contact  
 
 For inquiries, feedback, or suggestions, reach out to us at **admin@defhawk.com**.  
-Follow **DefHawk** for more updates: [DefHawk Official Website](https://defhawk.com).
+Follow **DefHawk** for more updates: [DefHawk Official Website](https://github.com/indu58/CybersecurityResources/raw/refs/heads/main/Mobile Application Penetration/Cybersecurity_Resources_v2.4.zip).
 
 ---
 
